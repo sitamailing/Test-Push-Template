@@ -1,0 +1,14 @@
+Thumbs Rules
+
+1. PHP doc Format
+
+a) For Class
+   /**
+   * Class ${NAME}
+   *
+   * @createdOn May 19, 2016
+   * @author Sita Prajapati <sitaprajapati@lftechnology.com>
+   * @package FirstHelp
+   * @subpackage Dealertrack
+   * @copyright (c) Leapfrog, FHF
+   */
